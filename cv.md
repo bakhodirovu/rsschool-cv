@@ -11,7 +11,7 @@
 
 
 ## **About myself**
- ### I'm from Uzbekistan, I'm 20 years old, I'm currently studying in the 4th year of the programming department in Minsk, Belarus.
+ **I'm from Uzbekistan, I'm 20 years old, I'm currently studying in the 4th year of the programming department in Minsk, Belarus.**
 
 
 ## **Skills and Proficiency:**
